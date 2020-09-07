@@ -1,0 +1,2 @@
+MATLAB release compatibility: created with MATLAB 2016a
+Platform compatibility: macOS
