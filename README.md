@@ -1,1 +1,1 @@
-## Characterization of differential cellular gene expression using AmpliSeq
+## Characterization of differential cellular expression using AmpliSeq
