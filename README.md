@@ -10,7 +10,7 @@ For hierarchical cluster analysis, genes with absolute expression values in the 
 #### Data and statistical analysis
 Downstream data analysis was performed using in-house scripts written in MATLAB 2016a (The MathWorks, Inc.). Hierarchical clustering of gene expression data was performed using the `clustergram` function with `correlation` as the distance metric.
 
-#### Results and discussion
+### Results and discussion
 Hierarchical clustering segregated the data into two distinctive clusters - one comprising of the iPSC lines and the other comprising of the neuronal lines.
 ![alt text](https://github.com/syed-adil-wafa/ampliSeq-gene-expression-characterization/blob/master/figures/clustergram.jpg)
 Gene expression analyses confirmed stem cell identity of iPSCs based on expression of pluripotency genes (*OCT4*, *NANOG*, *SOX2*, *FUT4*) and neuronal identity of GABAergic neurons based on expression of neuronal genes (*TUBB3*, *MAP2*, *NCAM1*) and down-regulation of the aforementioned pluripotency genes. *NESTIN* (*NES*), a neural progenitor gene, was expressed at low levels in both iPSC and neuronal lines. *GFAP*, a glial marker, was not expressed in both iPSC and neuronal lines.
