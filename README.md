@@ -1,4 +1,4 @@
-## Characterization of differential cellular expression using AmpliSeq
+## Characterization of differential cellular expression in human iPSCs and iPSC-derived GABAergic neurons using AmpliSeq
 
 ### Summary
 This pilot experiment was conducted to characterize the gene expression profiles of human induced pluripotent stem cells (iPSCs) and iPSC-derived GABAergic inhibitory neurons. iPSCs were generated from fibroblasts collected from a patient with Tuberous Sclerosis Complex and a familial control. Whole transcriptome analyses confirmed stem cell identity of iPSCs based on expression of pluripotency genes (*OCT4* (*POU5F1*), *NANOG*, *SOX2*, *FUT4*) and neuronal identity of GABAergic neurons based on expression of neuronal genes (*TUBB3*, *MAP2*, *NCAM1*) and down-regulation of the aforementioned pluripotency genes. Pairwise correlation analysis demonstrated strong positive correlations between all pairs with stronger correlations between cell types than between genotypes indicating successful generation of iPSCs from somatic cells and differentiation of neurons from iPSCs.
