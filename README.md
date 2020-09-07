@@ -1,1 +1,1 @@
-## Characterization of gene expression profiles of human iPSCs and iPSC-derived neurons using AmpliSeq
+## Characterization of differential cellular gene expression using AmpliSeq
