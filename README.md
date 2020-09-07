@@ -1,1 +1,1 @@
-# cellular-differences-in-gene-expression
+## Characterization of gene expression profiles of human iPSCs and iPSC-derived neurons using AmpliSeq
